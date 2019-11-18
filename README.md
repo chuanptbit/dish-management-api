@@ -36,7 +36,7 @@
 
 	`$ npm start`
 
-## Documents:
+## Documents
 
 Read more from the document of the project in:
 
